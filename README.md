@@ -1,2 +1,4 @@
 # entity_graph
-Automatisches Textverstehen - Semianrprojekt
+Automatisches Textverstehen - Seminarprojekt
+
+Entity Graph Project
